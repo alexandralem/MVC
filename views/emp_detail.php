@@ -11,8 +11,9 @@ echo
 		;
 ?>
 <br><br>
-<div id="content" class="row">
 <?php	
 echo '<a href="http://localhost:8888/users/index.php?task=delete&id='.$users[0]->id.'">delete employee</a><br>';
 
 ?>
+
+</div>
