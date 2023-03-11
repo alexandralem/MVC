@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Mar 11, 2023 at 04:52 AM
+-- Generation Time: Mar 11, 2023 at 09:13 AM
 -- Server version: 5.7.34
 -- PHP Version: 7.4.21
 
@@ -62,12 +62,12 @@ CREATE TABLE `tbl_users` (
 --
 
 INSERT INTO `tbl_users` (`id`, `user_lname`, `user_fname`, `user_username`, `user_password`, `user_photo`, `role_id`) VALUES
-(1, 'Smith', 'Maggie', 'msmith', '79ceb6a262ccd958cd33b75e078f13e5', 'maggie.jpg', 1),
-(2, 'Burton', 'Tim', 'tburton', '897fc8801b9706808021d8adfbd87cd5', 'tim.jpg', 2),
-(3, 'Geer', 'Richard', 'rgeer', 'aadc5b1760f5f42a1c11c61bf918b244', 'richard.jpg', 2),
-(6, 'Linda', 'Flynn', 'lflynn', '195917d044810e8664ff195c8bcfe9a0', 'linda.jpg', 1),
-(7, 'Lee', 'Jennie', 'jlee', '9a92b3638fc2561e581f694d9b4aec1e', 'jennie.jpg', 2),
-(13, 'Mills', 'Sasha', 'sasha', '83e1ea39c9d3b1999c0bfe5b8bf1fd9a', 'hailey.jpg', 1);
+(1, 'Smith', 'Maggie', 'msmith', '79ceb6a262ccd958cd33b75e078f13e5', 'person5.jpg', 1),
+(2, 'Burton', 'Tim', 'tburton', '897fc8801b9706808021d8adfbd87cd5', 'person2.jpg', 2),
+(3, 'Geer', 'Richard', 'rgeer', 'aadc5b1760f5f42a1c11c61bf918b244', 'person3.jpg', 2),
+(6, 'Linda', 'Flynn', 'lflynn', '195917d044810e8664ff195c8bcfe9a0', 'person4.jpg', 1),
+(7, 'Lee', 'Jennie', 'jlee', '9a92b3638fc2561e581f694d9b4aec1e', 'person5.jpg', 2),
+(13, 'Mills', 'Sasha', 'sasha', '83e1ea39c9d3b1999c0bfe5b8bf1fd9a', 'person2.jpg', 1);
 
 --
 -- Indexes for dumped tables
