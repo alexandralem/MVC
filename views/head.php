@@ -7,5 +7,5 @@
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
 <body>
-		<h1>Personnel Information</h1>
+		<h1>Users Information</h1>
 		<div id="container">
